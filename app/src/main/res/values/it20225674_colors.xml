@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="timetable_textView_color">#000000</color>
+    <color name="timetable_sw_color">#00BCD4</color>
+    <color name="timetable_clr_notification">#E91E63</color>
+    <color name="timetable_bt_color">#94699C</color>
+    <color name="timetable_text1">#D3BDE0</color>
+    <color name="timetable_text2">#D9C6DD</color>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timetable_page_title1">Time Table</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End time</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="calendar_page_title1">Calendar</string>
+    <string name="add_events">Add Events</string>
+    <string name="mywork">My Schedule List</string>
+    <string name="li_day">Day</string>
+    <string name="li_subject">Subject</string>
+    <string name="list_start_time">Start Time</string>
+    <string name="listend_time">End Time</string>
+    <string name="back">Back</string>
+    <string name="days_of_the_weekUp">Days of the week</string>
+    <string name="subjUp">Subject</string>
+
+
+    <string-array name="Adays">
+        <item>Days of the week</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+    <string-array name="Asubject">
+        <item>Subject</item>
+        <item>MADD</item>
+        <item>DSA</item>
+        <item>PS</item>
+        <item>Prof.Skills</item>
+        <item>ESD</item>
+        <item>ITP</item>
+    </string-array>
+</resources>

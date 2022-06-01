@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="timetable_margin_bottom">196dp</dimen>
+    <dimen name="timetable_margin_top">24dp</dimen>
+    <dimen name="timetable_margin_left">16dp</dimen>
+    <dimen name="timetable_margin_right">16dp</dimen>
+    <dimen name="timetable_margin_bottom1">196dp</dimen>
+    <dimen name="layout_height">29dp</dimen>
+
+</resources>

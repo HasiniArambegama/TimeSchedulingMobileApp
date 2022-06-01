@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuickZ</string>
+    <string name="home_page_title">Home Page</string>
+    <string name="action_search">search</string>
+    <string name="action_notifications">notifications</string>
+    <string name="action_mail">mail</string>
+    <string name="action_menu">menu</string>
+    <string name="action_home">Home</string>
+    <string name="action_calender">Calender</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_settings">settings</string>
+</resources>
